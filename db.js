@@ -4,7 +4,7 @@ export const videos = [
         title:"You are super awesome",
         description:"Test video",
         views:300000,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator:{
             name:"Joy M",
             email:"1@1.com"
@@ -16,8 +16,8 @@ export const videos = [
         title:"big bunny",
         description:"Test video",
         views:300000,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
-        creator:{
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
+     creator:{
             name:"Joy M",
             email:"1@1.com"
 
@@ -28,8 +28,8 @@ export const videos = [
         title:"big big",
         description:"yes it is",
         views:300000,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
-        creator:{
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
+     creator:{
             name:"Joy M",
             email:"1@1.com"
 
@@ -40,8 +40,8 @@ export const videos = [
         title:"hello",
         description:"Test hello video",
         views:300000,
-        videoFile:"https://archive.org/details/BigBuckBunny_124",
-        creator:{
+        videoFile:"https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
+     creator:{
             name:"Joy M",
             email:"1@1.com"
 
