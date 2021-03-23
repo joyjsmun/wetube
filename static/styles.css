@@ -448,10 +448,16 @@ input[type=submit] {
   color: white;
   border: none;
 }
-.social-login .social-login--facebook {
-  background-color: #3a5998;
+.social-login .social-login--github > a {
+  color: white;
+}
+.social-login button.social-login--kakotalk {
+  background-color: #fceb00;
   color: white;
   border: none;
+}
+.social-login button.social-login--kakotalk img {
+  width: 40%;
 }
 
 .videoBlock video {

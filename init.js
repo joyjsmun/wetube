@@ -1,9 +1,11 @@
-import {videos} from "./db";
+
+import dotenv from "dotenv";
+import "./db";
 import app from "./app";
 
-import mongoose from "mongoose";
-import dotenv from "dotenv";
 dotenv.config();
+
+import mongoose from "mongoose";
 import "./models/Video";
 import "./models/Comment";
 import "./models/User";

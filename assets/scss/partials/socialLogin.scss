@@ -23,9 +23,16 @@
     color: white;
     border: none;
   }
-  .social-login--facebook {
-    background-color: #3a5998;
+
+  .social-login--github > a {
+    color: white;
+  }
+  button.social-login--kakotalk {
+    background-color: #fceb00;
     color: white;
     border: none;
+    img {
+      width: 40%;
+    }
   }
 }
